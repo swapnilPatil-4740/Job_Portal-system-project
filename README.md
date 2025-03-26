@@ -1,5 +1,4 @@
 # Job_Portal-system-project
-# Job Portal - Django Project
 
 A comprehensive **Job Portal** built with Django, offering features for job seekers and employers, including job listings, applications, and user management.
 
